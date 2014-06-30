@@ -7,6 +7,7 @@
 ### Things we used today
 
 - Sublime Text 2 [link](http://www.sublimetext.com/)
+- Codecademy [link](http://codecademy.com)
 - codepen [link](http://codepen.io)
 - jQuery [link](http://jquery.com)
 - Firebase [link](https://firebase.com)
