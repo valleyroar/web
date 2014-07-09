@@ -104,7 +104,7 @@ Then use the `.each` function to iterate over them with jQuery. I tried my best 
             for (var i = 0 ; i < 5 ; i++) {
                 // If the index of this star is less than or equal to the index of the star that
                 // triggered this code, then make it yellow
-                if (i <= index) {
+                if (i <= index % 5) {
                     $(elems[i]).css('color', 'yellow');    
                 }
                 // Otherwise, make it gray
