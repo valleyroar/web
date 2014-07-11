@@ -45,7 +45,9 @@ Here's the template we're going to start with.
 		</script>
 	</head>
 	<body>
-	
+		<input type="text" id="email" placeholder="email">
+        	<input type="password" id="password" placeholder="password">
+        	<button>log in</button>
 	</body>
 </html>
 ```
