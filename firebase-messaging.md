@@ -1,15 +1,10 @@
 # Firebase messaging
 
 This is to get Firebase chat set up on a single-page application. In the example below, it assumes you are writing code directly into the page using a `script` element.
-
-First, add the following scripts to your page.
 ```html
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdn.firebase.com/js/client/1.0.17/firebase.js"></script>
-```
 
-**After the script elements from above**, add in the following starting code. 
-```javascript
 <script>
 $(document).ready( setup );
 
